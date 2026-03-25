@@ -13,3 +13,4 @@ C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Via
 C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\ejercicio.Application\obj\Debug\net9.0\refint\ejercicio.Application.dll
 C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\ejercicio.Application\obj\Debug\net9.0\ejercicio.Application.pdb
 C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\ejercicio.Application\obj\Debug\net9.0\ref\ejercicio.Application.dll
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\ejercicio.Application\obj\Debug\net9.0\ejercicio.Application.sourcelink.json

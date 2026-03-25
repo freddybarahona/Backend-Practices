@@ -36,3 +36,4 @@ C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Via
 C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\ejercicio.WebApi\obj\Debug\net9.0\ejercicio.WebApi.pdb
 C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\ejercicio.WebApi\obj\Debug\net9.0\ejercicio.WebApi.genruntimeconfig.cache
 C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\ejercicio.WebApi\obj\Debug\net9.0\ref\ejercicio.WebApi.dll
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\ejercicio.WebApi\obj\Debug\net9.0\ejercicio.WebApi.sourcelink.json

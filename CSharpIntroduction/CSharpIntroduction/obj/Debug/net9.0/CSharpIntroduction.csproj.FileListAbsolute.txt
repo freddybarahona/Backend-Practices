@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\CSharpIntroduction\CSharpIntroduction\obj\Debug\net9.0\CSharpIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\CSharpIntroduction\CSharpIntroduction\obj\Debug\net9.0\CSharpIntroduction.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\CSharpIntroduction\CSharpIntroduction\obj\Debug\net9.0\CSharpIntroduction.AssemblyInfo.cs
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\CSharpIntroduction\CSharpIntroduction\obj\Debug\net9.0\CSharpIntroduction.csproj.CoreCompileInputs.cache

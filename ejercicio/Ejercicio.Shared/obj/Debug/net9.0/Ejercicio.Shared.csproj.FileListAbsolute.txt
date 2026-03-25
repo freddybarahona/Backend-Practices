@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\bin\Debug\net9.0\Ejercicio.Shared.deps.json
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\bin\Debug\net9.0\Ejercicio.Shared.dll
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\bin\Debug\net9.0\Ejercicio.Shared.pdb
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\obj\Debug\net9.0\Ejercicio.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\obj\Debug\net9.0\Ejercicio.Shared.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\obj\Debug\net9.0\Ejercicio.Shared.AssemblyInfo.cs
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\obj\Debug\net9.0\Ejercicio.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\obj\Debug\net9.0\Ejercicio.Shared.dll
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\obj\Debug\net9.0\refint\Ejercicio.Shared.dll
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\obj\Debug\net9.0\Ejercicio.Shared.pdb
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\ejercicio\Ejercicio.Shared\obj\Debug\net9.0\ref\Ejercicio.Shared.dll

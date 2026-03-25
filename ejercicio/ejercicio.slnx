@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ejercicio.Application/ejercicio.Application.csproj" Id="7a3a11ec-2745-42a0-9f51-90a51b8f5ba9" />
+  <Project Path="Ejercicio.Shared/Ejercicio.Shared.csproj" Id="a5b3d049-35c1-4017-ab30-af9a812b6169" />
+  <Project Path="ejercicio.WebApi/ejercicio.WebApi.csproj" />
+</Solution>

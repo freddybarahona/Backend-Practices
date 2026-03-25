@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\obj\Debug\net9.0\actividad_personal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\obj\Debug\net9.0\actividad_personal.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\obj\Debug\net9.0\actividad_personal.AssemblyInfo.cs
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\obj\Debug\net9.0\actividad_personal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\bin\Debug\net9.0\actividad_personal.exe
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\bin\Debug\net9.0\actividad_personal.deps.json
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\bin\Debug\net9.0\actividad_personal.runtimeconfig.json
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\bin\Debug\net9.0\actividad_personal.dll
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\bin\Debug\net9.0\actividad_personal.pdb
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\obj\Debug\net9.0\actividad_personal.dll
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\obj\Debug\net9.0\refint\actividad_personal.dll
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\obj\Debug\net9.0\actividad_personal.pdb
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\obj\Debug\net9.0\actividad_personal.genruntimeconfig.cache
+C:\Users\USER\Desktop\freddy barahona\portafolio\certificaciones\mentoria de Viamatica bootcamp Full Stack\ejercicios\clases\Backend\actividad_personal\obj\Debug\net9.0\ref\actividad_personal.dll

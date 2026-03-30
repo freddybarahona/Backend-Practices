@@ -7,7 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TalentInsights.Shared\TalentInsights.Shared.csproj" />
+    <Folder Include="Helpers\" />
+    <Folder Include="ValidationConstants\" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InstagramClone.App/InstagramClone.App.csproj" />
+  <Project Path="InstagramClone.Domaind/InstagramClone.Domaind.csproj" />
+  <Project Path="InstagramClone.Shared/InstagramClone.Shared.csproj" />
+  <Project Path="InstagramClone.WebApi/InstagramClone.WebApi.csproj" />
+</Solution>

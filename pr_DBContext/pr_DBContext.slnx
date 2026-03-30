@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="pr_DBContext.Domaind/pr_DBContext.Domaind.csproj" />
+  <Project Path="pr_DBContext.WebApi/pr_DBContext.WebApi.csproj" />
+</Solution>

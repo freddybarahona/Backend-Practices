@@ -7,20 +7,28 @@
       "RelativeMoniker": "D:0:0:{7A71F762-1230-ED48-4009-C488CE6A20C0}|TalentInsight.Api\\TalentInsight.Api.csproj|solutionrelative:talentinsight.api\\controllers\\collaboratorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA46BFB-129F-9081-4206-3D9F6488C2C8}|TalentInsights.Shared\\TalentInsights.Shared.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\talentinsights.shared\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBA46BFB-129F-9081-4206-3D9F6488C2C8}|TalentInsights.Shared\\TalentInsights.Shared.csproj|solutionrelative:talentinsights.shared\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\aplicacion\\helpers\\responsehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|solutionrelative:aplicacion\\helpers\\responsehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\aplicacion\\models\\responses\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|solutionrelative:aplicacion\\models\\responses\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\aplicacion\\talentinsights.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|solutionrelative:aplicacion\\talentinsights.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\aplicacion\\models\\requests\\collaborator\\createcollaboratorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|solutionrelative:aplicacion\\models\\requests\\collaborator\\createcollaboratorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA46BFB-129F-9081-4206-3D9F6488C2C8}|TalentInsights.Shared\\TalentInsights.Shared.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\talentinsights.shared\\constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBA46BFB-129F-9081-4206-3D9F6488C2C8}|TalentInsights.Shared\\TalentInsights.Shared.csproj|solutionrelative:talentinsights.shared\\constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBA46BFB-129F-9081-4206-3D9F6488C2C8}|TalentInsights.Shared\\TalentInsights.Shared.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\talentinsights.shared\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA46BFB-129F-9081-4206-3D9F6488C2C8}|TalentInsights.Shared\\TalentInsights.Shared.csproj|solutionrelative:talentinsights.shared\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\aplicacion\\talentinsights.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{88E53977-834E-7E06-BEFE-F46717E47FB3}|Aplicacion\\TalentInsights.Application.csproj|solutionrelative:aplicacion\\talentinsights.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DBA46BFB-129F-9081-4206-3D9F6488C2C8}|TalentInsights.Shared\\TalentInsights.Shared.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\talentinsights.shared\\constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA46BFB-129F-9081-4206-3D9F6488C2C8}|TalentInsights.Shared\\TalentInsights.Shared.csproj|solutionrelative:talentinsights.shared\\constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A71F762-1230-ED48-4009-C488CE6A20C0}|TalentInsight.Api\\TalentInsight.Api.csproj|c:\\users\\user\\desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de viamatica bootcamp full stack\\ejercicios\\clases\\backend\\talentinsight\\talentinsight.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\TalentInsight.Api\\Program.cs",
               "RelativeDocumentMoniker": "TalentInsight.Api\\Program.cs",
@@ -57,7 +65,7 @@
               "RelativeDocumentMoniker": "TalentInsight.Api\\Controllers\\CollaboratorsController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\TalentInsight.Api\\Controllers\\CollaboratorsController.cs",
               "RelativeToolTip": "TalentInsight.Api\\Controllers\\CollaboratorsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T14:32:05.491Z",
               "IsPinned": true,
@@ -66,6 +74,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ResponseHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\Aplicacion\\Helpers\\ResponseHelpers.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Helpers\\ResponseHelpers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\Aplicacion\\Helpers\\ResponseHelpers.cs",
+              "RelativeToolTip": "Aplicacion\\Helpers\\ResponseHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:31:46.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\Aplicacion\\Models\\Responses\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Models\\Responses\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\Aplicacion\\Models\\Responses\\GenericResponse.cs",
+              "RelativeToolTip": "Aplicacion\\Models\\Responses\\GenericResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:31:48.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Cache.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\TalentInsights.Shared\\Cache.cs",
               "RelativeDocumentMoniker": "TalentInsights.Shared\\Cache.cs",
@@ -73,12 +107,11 @@
               "RelativeToolTip": "TalentInsights.Shared\\Cache.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:15:28.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T17:15:28.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TalentInsights.Application.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\Aplicacion\\TalentInsights.Application.csproj",
               "RelativeDocumentMoniker": "Aplicacion\\TalentInsights.Application.csproj",
@@ -90,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ValidationConstants.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\TalentInsights.Shared\\Constants\\ValidationConstants.cs",
               "RelativeDocumentMoniker": "TalentInsights.Shared\\Constants\\ValidationConstants.cs",
@@ -98,12 +131,11 @@
               "RelativeToolTip": "TalentInsights.Shared\\Constants\\ValidationConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T16:09:56.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T16:09:56.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CreateCollaboratorRequest.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\Aplicacion\\Models\\Requests\\Collaborator\\CreateCollaboratorRequest.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Models\\Requests\\Collaborator\\CreateCollaboratorRequest.cs",
@@ -111,8 +143,7 @@
               "RelativeToolTip": "Aplicacion\\Models\\Requests\\Collaborator\\CreateCollaboratorRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T15:19:03.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T15:19:03.514Z"
             }
           ]
         }

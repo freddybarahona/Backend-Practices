@@ -1,13 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UserSecretsId>19c1fc6c-b40d-40c5-9f60-7147aceefccc</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TalentInsights.Shared\TalentInsights.Shared.csproj" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
   </ItemGroup>
 
 </Project>

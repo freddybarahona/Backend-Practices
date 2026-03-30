@@ -1,0 +1,6 @@
+@pr_DBContext.WebApi_HostAddress = http://localhost:5145
+
+GET {{pr_DBContext.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

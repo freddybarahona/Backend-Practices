@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="pr_DBContext.Domaind/pr_DBContext.Domaind.csproj" />
+  <Project Path="pr_DBContext.Infrastructure/pr_DBContext.Infrastructure.csproj" Id="a5ab1dc6-fcf8-4e45-bf68-cbdee2ec49c8" />
   <Project Path="pr_DBContext.WebApi/pr_DBContext.WebApi.csproj" />
 </Solution>

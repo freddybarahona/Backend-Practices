@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../pract_DBC.Domain/pract_DBC.Domain.csproj" />
+  <Project Path="../pract_DBC.WebApi/pract_DBC.WebApi.csproj" />
+</Solution>

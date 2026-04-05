@@ -65,7 +65,7 @@
               "RelativeDocumentMoniker": "TalentInsight.Api\\Controllers\\CollaboratorsController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\freddy barahona\\portafolio\\certificaciones\\mentoria de Viamatica bootcamp Full Stack\\ejercicios\\clases\\Backend\\TalentInsight\\TalentInsight.Api\\Controllers\\CollaboratorsController.cs",
               "RelativeToolTip": "TalentInsight.Api\\Controllers\\CollaboratorsController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T14:32:05.491Z",
               "IsPinned": true,
@@ -81,8 +81,7 @@
               "RelativeToolTip": "Aplicacion\\Helpers\\ResponseHelpers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T13:31:46.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T13:31:46.44Z"
             },
             {
               "$type": "Document",
@@ -94,8 +93,7 @@
               "RelativeToolTip": "Aplicacion\\Models\\Responses\\GenericResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:31:48.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T02:31:48.775Z"
             },
             {
               "$type": "Document",
